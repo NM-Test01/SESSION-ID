@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: ✦☠︎𝕰𝖛𝖎𝖑 𝕹~𝕸~𝕷♫⃝✙.-pair-site
+    env: docker
+    plan: free
+    branch: main
+    repo: https://github.com/NM-Test01/✦☠︎𝕰𝖛𝖎𝖑 𝕹~𝕸~𝕷♫⃝✙.
+    dockerfilePath: ./Dockerfile
+    autoDeploy: true
